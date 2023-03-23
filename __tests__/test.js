@@ -1,6 +1,5 @@
 const { generateRandomString } = require('../index');
 
-
 describe('generateRandomString', () => {
   test('returns a string of the correct length', () => {
     expect(generateRandomString(10).length).toBe(10);
