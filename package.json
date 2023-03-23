@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/STUTuna/randomstring-tool/issues"
   },
-  "homepage": "https://github.com/STUTuna/randomstring-tool#readme"
+  "homepage": "https://github.com/STUTuna/randomstring-tool#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
