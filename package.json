@@ -1,0 +1,22 @@
+{
+  "name": "randomstring-tool",
+  "version": "1.0.0",
+  "description": "A node.js tool for generating random text strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/STUTuna/randomstring-tool.git"
+  },
+  "keywords": [
+    "randomstring"
+  ],
+  "author": "Super Tuna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/STUTuna/randomstring-tool/issues"
+  },
+  "homepage": "https://github.com/STUTuna/randomstring-tool#readme"
+}
