@@ -1,6 +1,6 @@
 {
   "name": "randomstring-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node.js tool for generating random text strings",
   "main": "index.js",
   "scripts": {
