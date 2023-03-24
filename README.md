@@ -19,6 +19,3 @@ console.log(randomstring(10));
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-[1]:
-
