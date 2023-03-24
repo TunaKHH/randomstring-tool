@@ -12,8 +12,11 @@ npm install randomstring-tool
 
 ```javascript
 const randomstring = require('randomstring-tool');
-
+const generateRandomChinese = require('randomstring-tool');
 console.log(randomstring(10));
+// OFgxuRsHrO
+console.log(generateRandomChinese(10));
+// 噆澟巐借黻登鹝欩嫫雠
 ```
 
 ## License
