@@ -1,6 +1,5 @@
 # randomstring-tool
-
-A tool to generate random strings.
+Package provides a function to generate alphanumeric strings with the ability to include Chinese characters.
 
 ## Installation
 
