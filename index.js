@@ -25,7 +25,7 @@ function generateRandomString(length) {
 
 function generateRandomChinese(length) {
   let result = '';
-  for (let i = 0; i < length; i++) {
+  for (let i = 0; i < length; i += 1) {
     const unicode = Math.floor(Math.random() * (0x9FFF - 0x4E00 + 1)) + 0x4E00;
     result += String.fromCharCode(unicode);
   }
