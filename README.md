@@ -10,9 +10,12 @@ npm install randomstring-tool
 ## Usage
 
 ```javascript
-const randomstring = require('randomstring-tool');
-const generateRandomChinese = require('randomstring-tool');
-console.log(randomstring(10));
+const {
+  generateRandomString,
+  generateRandomChinese,
+} = require('randomstring-tool');
+
+console.log(generateRandomString(10));
 // OFgxuRsHrO
 console.log(generateRandomChinese(10));
 // 噆澟巐借黻登鹝欩嫫雠
